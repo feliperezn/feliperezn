@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @feliperezn
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning AI, ML
 - 📫 rezfelipe@outlook.com
 
 <!---
