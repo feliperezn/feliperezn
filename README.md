@@ -2,7 +2,7 @@
 
 IT Support Specialist with nearly 10 years of experience at [Softplan](https://www.softplan.com.br/), based in Florianópolis, Brazil.  
 I work at the intersection of **technical support**, **databases**, and **process improvement** — helping teams resolve complex issues and deliver better software.
-- 🎓 Currently pursuing an Associate Degree in Systems Analysis and Development at IFSC (1st Semester).
+- 🎓 Currently pursuing an Associate Degree in Systems Analysis and Development at IFSC (2st Semester).
 
 ---
 
